@@ -21,3 +21,17 @@ This project involves developing a web scraping tool to extract real estate brok
 
 ## Outcome
 The project successfully provided a reliable and efficient tool for gathering real estate broker information, which can be used for market analysis, lead generation, or other business purposes.
+
+## Usage
+1. Install the required libraries:
+    ```bash
+    pip install beautifulsoup4 selenium
+    ```
+2. Run the script:
+    ```bash
+    Homes Website Script.py
+    ```
+3. The extracted data will be saved in a `real_estate_brokers.csv` file.
+
+## License
+This project is licensed under the MIT License.
