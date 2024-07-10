@@ -1,4 +1,4 @@
-# Real Estate Broker Information Extractor
+# Real Estate Agents Information Extractor
 
 ## Description
 This project involves developing a web scraping tool to extract real estate brokers' information from the Homes website. The tool allows users to input a location and then scrapes data to retrieve all real estate brokers in that specified area.
